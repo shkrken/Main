@@ -1,0 +1,14 @@
+﻿Valya              A.F. M Briter              25.02.2000 09.07.2022      007656
+Anya              A.F. M Diter                25.02.1999 09.07.2020 099999
+Leha              A.F. M Diter               25.02.1999 09.06.2020 000001
+Aleksey              A.F. M Wrirer               25.02.1999 09.05.2020 000456 
+Dima              A.F. M Teacher               25.02.1999 09.04.2020      000056
+Vova              A.F. M Teacher               25.02.1999 09.03.2020 000009
+Tanya              A.F. M Diter               25.06.1999 09.12.2021 000000
+Sanyaone              A.F. M Diter               24.07.1999 22.09.2021 000064 
+Sanyatwo              A.F. M Diter               24.07.1999 22.12.2021 450064 
+Artem              A.F. M Diter               25.02.1960 09.11.2016 100000
+Rodion              A.F. M Ariter               25.02.1961 09.10.2017 123456
+Sveta              A.F. M Briter               25.02.1999 09.09.2020 033456
+Kostya              A.F. M Teacher               25.02.1999 09.02.2020 100006
+Gogol              A.F. M Teacher              25.02.1999 09.01.2020 199999

@@ -1,0 +1,16 @@
+﻿Writer 28
+  Ariter 24
+      Diter  16
+  Briter 16
+  Wrirer 22
+  Liter  17
+  Teacher 18
+Sportsman   30
+ Programmer   15
+Analyst   18
+Logistician 16
+ Administrator      20
+ Economist    14
+ 
+                      
+  
